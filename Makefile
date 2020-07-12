@@ -16,6 +16,7 @@ DIRS = 3dp_nutbolt \
        extrusion \
        fidget \
        finial \
+       flask \
        gears \
        gas_cap \
        geneva \
@@ -31,6 +32,7 @@ DIRS = 3dp_nutbolt \
        pottery_wheel \
        simple_stl \
        spiral \
+       sprue \
        square_flange \
        test \
        text \
